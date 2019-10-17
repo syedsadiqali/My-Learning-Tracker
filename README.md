@@ -164,6 +164,10 @@ I'm currently interested in/excited about:
 + NodeJS
 + Express
 + Static Site Generators like GatsbyJS
++ Golang Web Servers
++ VueJS
++ VueX
+
 
 ----
 
@@ -188,13 +192,13 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [x] Post a question on Stack Overflow
 * [x] Push code to GitHub or GitLab or BitBucket
 * [ ] Speak about something web development-related at an event
-* [ ] Complete a technical interview
+* [x] Complete a technical interview
 * [ ] Participate in a hackathon
 * [x] Deploy a project
 * [ ] Ship your project to a store
 * [x] Contribute to open source
 * [x] Get paid to code
-* [ ] When people ask what you do, respond saying you’re a developer :)
+* [x] When people ask what you do, respond saying you’re a developer :)
 
 ----
 
